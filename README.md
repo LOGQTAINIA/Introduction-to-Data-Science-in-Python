@@ -7,6 +7,6 @@ So I decided to upload my notebook for those people who may need some help.
 
 Of course, I can not complete these assignments without those codes.
 
-Thank you all for providing hints to help me.
+**Thank you all for providing hints to help me.**
 
-And I hope my code could help other people.
+**And I hope my code could help other people.**
