@@ -2,7 +2,7 @@
 
 Assignments for Introduction to Data Science in Python course on Coursera by University of Michigan
 
-When I was doing these assignments, I searched some codes in Internet for help. But I found there are some mistakes in their codes.
+I searched for some codes on the Internet for help when doing these assignments, but I found there are some mistakes here and there.
 So I decided to upload my notebook for those people who may need some help.
 
 Of course, I can not complete these assignments without those codes.
